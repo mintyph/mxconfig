@@ -1,6 +1,6 @@
 # MXNT ParrotOS Setup Script
 
-This Python script automates the setup of a Parrot OS environment by updating/upgrading the system and configuring it according to my personal standards. The script is a work in progress and may be extended with additional features in the future.
+This Python script automates the setup of a Parrot OS environment by updating/upgrading the system and configuring it according to my personal standards (currently i use the HTB edition). The script is a work in progress and may be extended with additional features in the future.
 
 ## Features
 
