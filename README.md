@@ -15,3 +15,4 @@ This Python script automates the setup of a Parrot OS environment by updating/up
    ```bash
    git clone https://github.com/mintyph/mxconfig.git
    cd mxconfig
+   sudo python3 main.py
